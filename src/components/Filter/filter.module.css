@@ -1,0 +1,23 @@
+
+.wrapper{
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 auto;
+    max-width: 350px;
+
+}
+.label{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    align-items: center;
+}
+
+.input{
+    width: 250px;
+    margin-top: 10px;
+}
+.titleTwo{
+    text-align: center;
+    color: rgb(182, 182, 0);
+  }
